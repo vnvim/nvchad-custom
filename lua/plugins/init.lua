@@ -12,6 +12,11 @@ return {
       require "configs.lspconfig"
     end,
   },
+  
+  {
+    "echasnovski/mini.icons",
+    version = false
+  },
 
   -- {
   -- 	"nvim-treesitter/nvim-treesitter",
